@@ -1,0 +1,3 @@
+[submodule "testForLFS"]
+	path = testForLFS
+	url = https://github.com/ugit-test/testForLFS.git
