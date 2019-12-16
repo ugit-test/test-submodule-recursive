@@ -1,3 +1,9 @@
 [submodule "testForLFS"]
 	path = testForLFS
 	url = https://github.com/ugit-test/testForLFS.git
+[submodule "test-submodule1"]
+	path = test-submodule1
+	url = https://github.com/ugit-test/test-submodule1.git
+[submodule "test-submodule"]
+	path = test-submodule
+	url = https://github.com/ugit-test/test-submodule.git
